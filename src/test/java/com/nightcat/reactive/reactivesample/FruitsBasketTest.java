@@ -21,6 +21,8 @@ import java.util.concurrent.TimeUnit;
 @SpringBootTest
 public class FruitsBasketTest {
 
+    // 과일바구니 테스트 http://tech.kakao.com/2018/05/29/reactor-programming/
+
     final List<String> basket1 = Arrays.asList(new String[]{"kiwi", "orange", "lemon", "orange", "lemon", "kiwi"});
     final List<String> basket2 = Arrays.asList(new String[]{"banana", "lemon", "lemon", "kiwi"});
     final List<String> basket3 = Arrays.asList(new String[]{"strawberry", "orange", "lemon", "grape", "strawberry"});

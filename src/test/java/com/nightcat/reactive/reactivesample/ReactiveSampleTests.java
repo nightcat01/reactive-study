@@ -1,6 +1,5 @@
 package com.nightcat.reactive.reactivesample;
 
-import com.nightcat.reactive.reactivesample.domain.FruitInfo;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
